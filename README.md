@@ -13,7 +13,8 @@ Simple and clean UI for easy authentication
 
 <img width="1784" height="768" alt="image" src="https://github.com/user-attachments/assets/af70df15-ac69-4824-9322-8b0b5b80db68" />
 
-<img width="188" height="338" alt="image" src="https://github.com/user-attachments/assets/2f450b40-063e-4ecb-8399-6c38df3ca19f" />
+<img width="594" height="564" alt="image" src="https://github.com/user-attachments/assets/3462eff1-b78f-4153-a0a2-f58797e814b8" />
+
 
 
 👤 User Overview
