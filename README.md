@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+🔍 GitHub Profile Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and interactive web app that lets you visualize any GitHub user’s profile, repositories, languages, and activity.
+Users can enter their GitHub Personal Access Token (PAT) to securely fetch their own data — the token stays only in the browser (cookies) and never goes to any server.
 
-## Available Scripts
+🚀 Features
 
-In the project directory, you can run:
+🔐 Login Page
 
-### `npm start`
+Secure login using your Personal Access Token (PAT)
+Token stored only in browser cookies (never sent to any server)
+Simple and clean UI for easy authentication
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1784" height="768" alt="image" src="https://github.com/user-attachments/assets/af70df15-ac69-4824-9322-8b0b5b80db68" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="188" height="338" alt="image" src="https://github.com/user-attachments/assets/2f450b40-063e-4ecb-8399-6c38df3ca19f" />
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+👤 User Overview
 
-### `npm run build`
+Displays GitHub profile details
+Avatar, username, bio, followers, following
+Shows account stats in a clean card layout
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1884" height="834" alt="image" src="https://github.com/user-attachments/assets/e218b572-397f-4bb9-975a-b0063d79b76b" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📁 Repository Explorer
+Lists all repositories of the user
+Shows:
+   Stars ⭐
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   Forks
 
-### `npm run eject`
+   Languages
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   Last updated date
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   Fast and searchable repo viewer
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img width="1867" height="874" alt="image" src="https://github.com/user-attachments/assets/2395afae-c849-4f3d-acba-22e46c3af192" />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+📦 Specific Repository Page
 
-## Learn More
+Fetches detailed repo information
+Shows topics, description, issues count, etc.
+Direct GitHub link for quick access
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img width="1904" height="871" alt="image" src="https://github.com/user-attachments/assets/39fb8ff5-472b-4d2a-8b84-302cee24589c" />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📊 Analysis Dashboard
 
-### Code Splitting
+Visual graphs of:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  Language usage
 
-### Analyzing the Bundle Size
+  Repository statistics
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  Commit insights (if included)
 
-### Making a Progressive Web App
+Beautiful, responsive charts for quick understanding
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<img width="1903" height="772" alt="image" src="https://github.com/user-attachments/assets/4db09145-e1ce-497b-ade3-f712a5358179" />
 
-### Advanced Configuration
+🔒 Full Privacy & Security
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+No backend server
+All GitHub API calls go directly from your browser to GitHub
+Your PAT stays safe in browser cookies only
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🧑‍💻 Developed By
+Durgaprasad M E
+🚀Passionate React Developer #Happy Coding ✨🐱🐭
