@@ -1,0 +1,51 @@
+.purple {
+  background-color: #673a8e;
+  color: #d7a8ff;
+}
+.green {
+  background-color: #0d5a42;
+  color: #6bffb0;
+}
+.blue {
+  background-color: #0e4f6f;
+  color: #6ad1ff;
+}
+.pink {
+  background-color: #6a3158;
+  color: #ff96c5;
+}
+.yellow {
+  background-color: #4b3a1a;
+  color: #ffd05a;
+}
+
+.languagesContainer {
+  list-style-type: none;
+  border-radius: 20px;
+  text-align: center;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  height: 40px;
+  width: 100px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.chgreen {
+  color: #54ca76;
+}
+.chblue {
+  color: #31a4e6;
+}
+.chpurple {
+  color: #9261f3;
+}
+.chred {
+  color: #f2637f;
+}
+.chyellow {
+  color: #f5c452;
+}

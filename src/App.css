@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #0f172a;
+}
+/* Default font for whole app */
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Specific font for headings */
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
